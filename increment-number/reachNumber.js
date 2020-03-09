@@ -1,5 +1,4 @@
-// this is
-
+// this is the javascript for incrementing number functionality
 
 let increment = document.getElementById('increment');
 let counter = 0;
